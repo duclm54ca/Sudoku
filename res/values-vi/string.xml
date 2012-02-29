@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    <string name="main_title">Android Sudoku</string>
+	<string name="continue_label">Tiếp tục</string>
+	<string name="new_game_label">Trò chơi mới</string>
+	<string name="about_label">Thông tin bổ sung</string>
+	<string name="exit_label">Thoát</string>
+	<string name="congratscreen_title">Chúc Mừng!</string>
+	
+	<string name="about_title">Về trò chơi Android Sudoku</string>
+	<string name="about_text">\		
+		Sudoku là 1 trò chơi giải đố, sắp đặt các con số 1 cách logic.
+		Ban đầu có 1 lưới ô vuông 9x9, mục tiêu của trò chơi là điền số kín
+		các ô trong lưới sao cho trên mỗi hàng, mỗi cột, và mỗi hình vuông 3x3 
+		(còn gọi là 1 <i>Khối</i>) mỗi chữ số từ 1 đến 9 chỉ xuất hiện 
+		duy nhất một lần.
+	</string>
+	
+	<string name="settings_label">Tùy chỉnh</string>
+	<string name="settings_title">Tùy chỉnh Sudoku</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Nhạc nền</string>
+	<string name="music_summary">Chơi nhạc nền</string>
+	<string name="hints_title">Gợi ý</string>
+	<string name="hints_summary">Gợi ý trong quá trình chơi</string>
+	<string name="language_title">Ngôn ngữ</string>
+	<string name="language_summary">Chọn ngôn ngữ của bạn</string>
+	<string name="eng_lan">English</string>
+	<string name="vi_lan">Tiếng Việt</string>
+	
+	
+	<string name="new_game_title">Độ khó</string>
+	<string name="easy_label">Dễ</string>
+	<string name="medium_label">Trung bình</string>
+	<string name="hard_label">Khó</string>
+	
+	<string name="game_title">Game</string>
+	<string name="no_moves_label">Không còn nước đi</string>
+	<string name="keypad_title">Bàn phím</string>
+	
+	<string name="confirm_exit">Bạn thực sự muốn thoát game?</string>
+	<string name="exit_yes_label">Có</string>
+	<string name="exit_no_label">Không</string>
+	<string name="replay_label">Chơi lại</string>
+
+</resources>

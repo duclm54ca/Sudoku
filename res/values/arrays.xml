@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<array name="difficulty">
+		<item>@string/easy_label</item>
+		<item>@string/medium_label</item>
+		<item>@string/hard_label</item>
+	</array>
+	<array name="entries">
+		<item>@string/eng_lan</item>
+		<item>@string/vi_lan</item>
+	</array>
+	<array name="entryValues">
+		<item>true</item>
+		<item>false</item>
+	</array>
+</resources>

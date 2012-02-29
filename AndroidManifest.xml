@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.example.sudoku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" android:debuggable="true">
+        <activity
+            android:name=".Sudoku"
+            android:label="@string/app_name"
+			android:configChanges="locale"			>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="@string/about_title"
+            android:theme="@android:style/Theme.Dialog"
+			android:configChanges="locale">
+        </activity>
+        
+        <activity android:name=".Prefs"
+            android:label="@string/settings_title">
+        </activity>
+        
+        <activity android:name=".Game" 
+            android:label="@string/game_title">
+        </activity>
+		
+		<activity android:name=".CongratScreen"
+			android:label="@string/congratscreen_title"
+			android:configChanges="locale">
+		</activity>
+    </application>
+
+</manifest>
