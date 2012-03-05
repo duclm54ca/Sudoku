@@ -6,3 +6,4 @@ Developers:
 	3. Ngo Xuan Thuan
 	4. Nguyen Danh Lam
 - Test: Modified in Master Branch
+- Test: Modified in conflictMerge01
