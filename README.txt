@@ -7,3 +7,7 @@ Developers:
 	4. Nguyen Danh Lam
 - Test: Modified in Master Branch
 - Test: Modified in conflictMerge02 Branch
+
+
+- Test: Modified in Master Branch
+- Test: Modified in conflictMerge02 Branch
